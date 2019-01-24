@@ -1,0 +1,12 @@
+Bank  = //li[@id='credit2']      //ol[@id='bank']
+
+500 = (//li[@id='fourth'])[1]
+  //ol[@id='amt7']
+
+sales =//li[@id='credit1']
+
+//li[@id='loan']
+
+
+500 = (//li[@id='fourth'])[1]
+//ol[@id='amt8']

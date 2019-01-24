@@ -1,0 +1,33 @@
+1.Launch the below URL's in firefox browser
+-------------------------------------------
+1.Greens technologys - http://www.greenstechnologys.com/
+2.Facebook - https://www.facebook.com/
+3.Amazon - https://www.amazon.in
+4.Greens technologys(selenium) - http://www.greenstechnologys.com/selenium-course-content.html
+
+2.Launch the below URL's in chrome browser
+------------------------------------------
+1.Greens technologys - http://www.greenstechnologys.com/
+2.Gmail - http://gmail.com/
+3.Flipkart - www.flipkart.com/
+4.Greens technologys(selenium) - http://www.greenstechnologys.com/selenium-course-content.html
+
+3.Launch the below URL's in IE browser
+--------------------------------------
+1.Greens technologys - http://www.greenstechnologys.com/
+2.DemoQa Registration - http://demoqa.com/registration/
+3.Greens technologys(selenium) - http://www.greenstechnologys.com/selenium-course-content.html
+
+
+
+
+Exception in thread "main" java.lang.IllegalStateException: The driver executable does not exist: D:\Applications\java\Selenium\drivers\ChromeDriver.exe
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:146)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:141)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:355)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at org.tcs.sample.DemoSelenium.main(DemoSelenium.java:11)

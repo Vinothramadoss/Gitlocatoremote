@@ -1,0 +1,406 @@
+QUESTIONS(Practical)
+--------------------
+QUESTION 1
+----------
+URL : http://demo.guru99.com/test/drag_drop.html
+
+NOTE: Drag bank ,5000 in debited side and drop sales,5000 in credited side
+
+QUESTION 2
+-----------
+URL: http://www.amazon.in
+
+NOTE: Shop by categorey is first mouseover
+Mobile and accessories is second mouseover
+Click powerbank
+
+QUESTION 3
+----------
+URL : http://www.flipkart.com
+
+NOTE: Home&appliances is first mouseover 
+Click any chair and add it to cart.
+
+QUESTION 4
+----------
+URL : https://www.gettyimages.in/
+
+NOTE: Editorial mouseover 
+Click entertainment.
+
+QUESTION 5
+----------
+URL : https://www.shopclues.com/wholesale.html
+
+NOTE: Mobile and electronics is first mouseover and click range Rs5001 - Rs10000
+
+QUESTION 6
+----------
+URL : https://www.shopclues.com/wholesale.html 
+
+NOTE: Sports&more is first mouseover
+Click weights grainers 
+Click first item to add to cart 
+Print the cost in cart
+
+
+QUESTION 7 
+----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Course is first mouseover
+Software training is second mouseo ver 
+Click selenium training and print 3rd paragraph.
+
+QUESTION 8
+-----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Courses is first mouseover
+Oracle training is second mouseover
+Click Oracle sql training and print 1st line.
+
+QUESTION 9
+----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Courses is first mouseover
+DataWarehouse training is second mouse over
+click microstategy training.
+
+QUESTION 10
+-----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Courses is first mouseover
+WebDesigning training is second mouseover
+Click javascript training.
+
+QUESTION 11
+-----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Courses is first mouseover
+SAP training is second mouseover
+Click SAP MM training & print 1st paragraph
+
+QUESTION 12
+-----------
+URL : https://www.homedepot.com/
+
+NOTE: Alldepartment is first mouseover
+Heating and cooling is second mouseover
+Air conditioners is third mouseover 
+Click portable air conditioners.
+
+QUESTION 13
+-----------
+URL : https://www.homedepot.com/
+
+NOTE: All department is first mouseover 
+Paint is second mouseover
+Interior painting is third mouseover
+Click celling paint.
+
+QUESTION 14
+-----------
+URL : https://www.snapdeal.com/
+
+NOTE: Mobile & Tablets is first mouseover
+Click newly lanuch covers.
+
+QUESTION 15
+-----------
+URL : https://www.snapdeal.com/
+
+NOTE: Women's Fashion is first mouseover
+Click footwear->click heals.
+
+QUESTION 16
+-----------
+URL : https://www.amazon.in/
+
+NOTE: Signin is first mouseover
+Click start here 
+Give details for signup.
+
+QUESTION 17
+-----------
+URL : https://www.amazon.in
+
+NOTE: Shop by categeory is first mouseover 
+Men's fashion & click sun glasses.
+
+QUESTON 18
+----------
+URL : https://www.amazon.in/
+
+NOTE: Click start here
+Click give already have account 
+Enter email and password and click login.
+
+QUESTION 19
+-----------
+URL : https://www.flipkart.com/
+
+NOTE: womens is mouseover
+Click footwear 
+Click flat slipper
+
+QUESTION 20
+-----------
+URL : https://www.sprint.com/
+
+NOTE: My sprint is first mouseover 
+Click Paybill.
+
+QUESTION 21
+------------
+URL : https://www.sprint.com/
+
+NOTE: shop is first mouseover
+Click unlimited.
+
+ QUESTIONS(Practical)
+--------------------
+QUESTION 1
+----------
+URL : http://demo.guru99.com/test/drag_drop.html
+
+NOTE: Drag bank ,5000 in debited side and drop sales,5000 in credited side
+
+QUESTION 2
+-----------
+URL: http://www.amazon.in
+
+NOTE: Shop by categorey is first mouseover
+Mobile and accessories is second mouseover
+Click powerbank
+
+QUESTION 3
+----------
+URL : http://www.flipkart.com
+
+NOTE: Home&appliances is first mouseover 
+Click any chair and add it to cart.
+
+QUESTION 4
+----------
+URL : https://www.gettyimages.in/
+
+NOTE: Editorial mouseover 
+Click entertainment.
+
+QUESTION 5
+----------
+URL : https://www.shopclues.com/wholesale.html
+
+NOTE: Mobile and electronics is first mouseover and click range Rs5001 - Rs10000
+
+QUESTION 6
+----------
+URL : https://www.shopclues.com/wholesale.html 
+
+NOTE: Sports&more is first mouseover
+Click weights grainers 
+Click first item to add to cart 
+Print the cost in cart
+
+
+QUESTION 7 
+----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Course is first mouseover
+Software training is second mouseo ver 
+Click selenium training and print 3rd paragraph.
+
+QUESTION 8
+-----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Courses is first mouseover
+Oracle training is second mouseover
+Click Oracle sql training and print 1st line.
+
+QUESTION 9
+----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Courses is first mouseover
+DataWarehouse training is second mouse over
+click microstategy training.
+
+QUESTION 10
+-----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Courses is first mouseover
+WebDesigning training is second mouseover
+Click javascript training.
+
+QUESTION 11
+-----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Courses is first mouseover
+SAP training is second mouseover
+Click SAP MM training & print 1st paragraph
+
+QUESTION 12
+-----------
+URL : https://www.homedepot.com/
+
+NOTE: Alldepartment is first mouseover
+Heating and cooling is second mouseover
+Air conditioners is third mouseover 
+Click portable air conditioners.
+
+QUESTION 13
+-----------
+URL : https://www.homedepot.com/
+
+NOTE: All department is first mouseover 
+Paint is second mouseover
+Interior painting is third mouseover
+Click celling paint.
+
+QUESTION 14
+-----------
+URL : https://www.snapdeal.com/
+
+NOTE: Mobile & Tablets is first mouseover
+Click newly lanuch covers.
+
+QUESTION 15
+-----------
+URL : https://www.snapdeal.com/
+
+NOTE: Women's Fashion is first mouseover
+Click footwear->click heals.
+
+QUESTION 16
+-----------
+URL : https://www.amazon.in/
+
+NOTE: Signin is first mouseover
+Click start here 
+Give details for signup.
+
+QUESTION 17
+-----------
+URL : https://www.amazon.in
+
+NOTE: Shop by categeory is first mouseover 
+Men's fashion & click sun glasses.
+
+QUESTON 18
+----------
+URL : https://www.amazon.in/
+
+NOTE: Click start here
+Click give already have account 
+Enter email and password and click login.
+
+QUESTION 19
+-----------
+URL : https://www.flipkart.com/
+
+NOTE: womens is mouseover
+Click footwear 
+Click flat slipper
+
+QUESTION 20
+-----------
+URL : https://www.sprint.com/
+
+NOTE: My sprint is first mouseover 
+Click Paybill.
+
+QUESTION 21
+------------
+URL : https://www.sprint.com/
+
+NOTE: shop is first mouseover
+Click unlimited.
+
+day 6
+
+
+QUESTIONS(Practical)
+--------------------
+QUESTION 1
+----------
+URL : https://www.facebook.com/
+
+NOTE: Type email in email textbox and cut and paste in password text  using robot class
+
+QUESTION 2
+----------
+URL : https://www.google.co.in/webhp 
+
+NOTE: In google and click google apps(::) and click gmail app.
+
+QUESTION 3
+----------
+URL : http://www.greenstechnologys.com/
+
+NOTE: Select first paragraph using double click then right click and select print using Robot class
+             
+QUESTION 4
+-----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Just rightClick the page and click save as.
+    
+QUESTION 5
+----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Select all the  content below in wrapper class and then rightClick  and select search for google.
+
+QUESTION 6
+----------
+URL : http://www.greenstechnologys.com/selenium-course-content.html
+
+NOTE: Click download links here and just right click selenium link and click open in a new tab.
+
+QUESTION 7
+----------
+URL : https://www.flipkart.com/
+
+NOTE: Click login/signup
+      Type a  name in email textbox and cut and click continue and paste in password text using robot class
+              
+QUESTION 8
+------------
+URL : https://www.amazon.in/
+
+NOTE: Click login/signup
+      Type a  name in email textbox cut and click continue and paste in password text using action class click methods
+             
+QUESTION 9
+-----------
+URL : https://www.swiggy.com/chennai/login-besant-nagar-adyar
+
+NOTE: Click sign in and Type ur mob num and then cut and  paste it in password using Robot  class   
+               
+QUESTION 10
+-----------
+URL : https://www.snapdeal.com/offers/quirky
+
+NOTE: Select any item and then right click and press open in a new window
+              
+QUESTION 11
+-----------
+URL : https://www.flipkart.com/
+
+NOTE: Select any item and then right click and press open in a new window
+              
+QUESTION 12
+------------ 
+URL : https://www.swiggy.com/chennai/login-besant-nagar-adyar
+
+NOTE: Select any item and press add then click set location in location give ur location then double click and then cut user location using robot class
+   
+  
